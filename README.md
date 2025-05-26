@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2025-1-mission-course-frontend-week1
 
 # GDG Hongik Univ. 프로젝트 트랙 4기 미션 코스
@@ -146,3 +147,17 @@ pnpm은 이런 npm의 속도 문제를 해결하기 위해 등장했어요. 실�
         ├── index.css
         └── main.jsx
 ```
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>>>>>>> 8b39ed5 (init: Vite + pnpm 프로젝트 생성)
